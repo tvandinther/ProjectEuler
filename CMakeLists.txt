@@ -5,3 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(Problem1
         "Problem1/Problem1.c")
+
+add_executable(Problem15
+        "Problem15/Problem15.c")
